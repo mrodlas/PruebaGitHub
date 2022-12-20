@@ -1,2 +1,2 @@
 # PruebaGitHub
-Hola, Bienvenidos a GitHub Test
+Hola, Bienvenidos a GitHub Test.
